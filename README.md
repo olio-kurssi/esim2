@@ -1,12 +1,15 @@
 # esim2 Muodostin ja Tuohoaja
 
 Tässä esimerkissä Person-luokkaan on lisätty **construktori** eli muodostin seuraavalla koodilla 
+
 <pre>
 Person(){
     cout<<"Person luokan muodostinta kutsuttiin"<<endl;
 }
 </pre>
+
 luokkaan on lisätty muyös **destruktori** eli tuhoaja koodilla 
+
 <pre>
 ~Person(){
     cout<<"Person luokan tuhoajaa kutsuttiin"<<endl;
