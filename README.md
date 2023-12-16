@@ -4,7 +4,7 @@ Tässä esimerkissä Person-luokkaan on lisätty **construktori** eli muodostin 
 
 <pre>
 Person(){
-    cout<<"Person luokan muodostinta kutsuttiin"<<endl;
+    cout&lt;&lt;"Person luokan muodostinta kutsuttiin"&lt;&lt;endl;
 }
 </pre>
 
@@ -12,7 +12,7 @@ luokkaan on lisätty muyös **destruktori** eli tuhoaja koodilla
 
 <pre>
 ~Person(){
-    cout<<"Person luokan tuhoajaa kutsuttiin"<<endl;
+    cout&lt;&lt;"Person luokan tuhoajaa kutsuttiin"&lt;&lt;endl;
 }
 </pre>
 
