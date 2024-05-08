@@ -1,6 +1,6 @@
 # esim2 Muodostin ja Tuohoaja
 
-Tässä esimerkissä Person-luokkaan on lisätty **construktori** eli muodostin seuraavalla koodilla 
+Tässä esimerkissä Person-luokkaan on lisätty **konstruktori** eli muodostin seuraavalla koodilla 
 
 <pre>
 Person(){
